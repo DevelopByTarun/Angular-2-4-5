@@ -8,7 +8,7 @@
 [![Dependencies](https://img.shields.io/david/jaredhanson/passport-twitter.svg)](https://david-dm.org/jaredhanson/passport-twitter)
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/@angular/core)
 
-## Angular 2/4/5/6 JavaScript Framework
+## Angular 2/4/5/6 JavaScriptFramework
 
 Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
 
